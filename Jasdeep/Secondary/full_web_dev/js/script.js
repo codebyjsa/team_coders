@@ -283,19 +283,38 @@
 
 // Armstrong Number
 
-let n=parseInt(prompt("Enter a positive number"))
-let num=n
-let arm = parseInt(0)
+// let n=parseInt(prompt("Enter a positive number"))
+// let num=n
+// let arm = parseInt(0)
 
-while (n>0) {
-    let rev_num = n%10
-    arm += parseInt((rev_num)**3)
-    n = parseInt(n/10)
+// while (n>0) {
+//     let rev_num = n%10
+//     arm += parseInt((rev_num)**3)
+//     n = parseInt(n/10)
+// }
+// console.log(arm)
+// if (arm==num) {
+//     alert("This is armstrong number.")
+// }
+// else{
+//     alert("This is not an armstrong number!")
+// }
+
+// let a=[1, 2]
+
+// console.log(a[0], a[1])
+
+// let a=[1,2,3,4,5]
+// console.log(a.length)
+
+// let a=[1,2,3,4,5,6]
+// a.forEach(element => {
+//     console.log(element)
+// });
+
+let student = {
+    "First Name":"Jasdeep",
+    "Last Name":"Singh",
+    "Roll No":19,
 }
-console.log(arm)
-if (arm==num) {
-    alert("This is armstrong number.")
-}
-else{
-    alert("This is not an armstrong number!")
-}
+console.log(student)
