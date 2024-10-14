@@ -312,9 +312,16 @@
 //     console.log(element)
 // });
 
-let student = {
-    "First Name":"Jasdeep",
-    "Last Name":"Singh",
-    "Roll No":19,
-}
-console.log(student)
+// let student = {
+//     "First Name":"Jasdeep",
+//     "Last Name":"Singh",
+//     "Roll No":19,
+// }
+// console.log(student)
+
+let a = [1, 2, 3, 4]
+let b= 0
+a.forEach(element => {
+    b+=element
+});
+alert(b)
