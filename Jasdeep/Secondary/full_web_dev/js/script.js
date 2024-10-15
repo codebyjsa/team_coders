@@ -319,9 +319,10 @@
 // }
 // console.log(student)
 
-let a = [1, 2, 3, 4]
-let b= 0
-a.forEach(element => {
-    b+=element
-});
-alert(b)
+// let a = [1, 2, 3, 4]
+// let b= 0
+// a.forEach(element => {
+//     b+=element
+// });
+// alert(b)
+
