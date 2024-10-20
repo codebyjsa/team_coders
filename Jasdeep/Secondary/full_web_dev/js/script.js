@@ -326,3 +326,10 @@
 // });
 // alert(b)
 
+// let sum=()=>
+// {
+//     alert("Hello");
+// }
+
+// sum()
+
