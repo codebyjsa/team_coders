@@ -333,3 +333,10 @@
 
 // sum()
 
+let str = "Jasdeep"
+let str1 = 'Jasdeep'
+
+let sentence = `This is a special string`
+
+let out =  `The cost of ${str} is nothing :)`
+console.log(out)
