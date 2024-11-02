@@ -340,3 +340,4 @@ let sentence = `This is a special string`
 
 let out =  `The cost of ${str} is nothing :)`
 console.log(out)
+console.log(str.toUpperCase())
