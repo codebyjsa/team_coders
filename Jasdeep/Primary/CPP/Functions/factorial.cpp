@@ -1,22 +1,14 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 
-int fact(int n){
-
-    int factorial =1;
-    for(int i=1; i<=n; i++){
-        factorial*=i;
-    }
-
-    return factorial;
+int factorial(int n) {
+    if (n == 0) return 1;  // Base case
+    return n * factorial(n - 1);  // Recursive case
 }
 
-int main(){
+int main (){
 
-    int n;
-    cin>>n;
-
-    cout<<"factorial of "<<n<<" is "<<fact(n);
+    cout<<factorial(5);
 
     return 0;
 }
