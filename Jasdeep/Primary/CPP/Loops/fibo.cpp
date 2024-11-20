@@ -3,15 +3,17 @@ using namespace std;
 
 int main(){
 
-    int n1=0, n2=1, n3=1, num;
-    cin>>num;
+    int a=0, b=1, n;
+    cin>>n;
 
-    for(int i=1; i<num; i++){
-        n3= n1+n2;
-        n1=n2;
-        n2=n3;
+    cout<<"Fibonacci sequence: "<<a<<" "<<b<<" ";
+
+    for(int i=3; i<=n; ++i){
+        int next = a+b;
+        cout<<next<<" ";
+        a=b;
+        b=next;
     }
-    cout<<n3;
     
     return 0;
 }

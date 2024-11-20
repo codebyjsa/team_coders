@@ -1,6 +1,6 @@
 #include <iostream>  
 using namespace std;  
-int main()  
+int main()
 {  
   int n, i, m=0, flag=0;  
   cout << "Enter the Number to check Prime: ";  
@@ -18,7 +18,8 @@ int main()
           break;  
       }  
   }  
-  if (flag==0)  
-      cout << "YES"<<endl;  
+  if (flag==0){  
+      cout << "YES"<<endl;
+  }  
   return 0;  
 }
