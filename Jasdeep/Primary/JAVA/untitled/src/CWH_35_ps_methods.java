@@ -14,9 +14,21 @@ public class CWH_35_ps_methods {
         }
     }
 
+    static void pattern_rec(int pat){
+
+        if (pat>0){
+            pattern_rec(pat-1);
+            for (int i=0; i<pat; i++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+
     public static void main(String[] args) {
 //        mult(2);
-        pattern(5);
+//        pattern(5);
+        pattern_rec(5);
 
     }
 }
