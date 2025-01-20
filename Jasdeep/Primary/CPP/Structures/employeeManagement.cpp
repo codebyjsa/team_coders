@@ -18,7 +18,7 @@ void employeeInput(employee employees[], int n){
         cout<<"employee's Name: ";
         cin.getline(employees[i].name, 100);
         cout<<"Age: ";
-        cin>>employees[i].age;
+        cin>>employees[i].age; 
         cout<<"Grades: ";
         cin>>employees[i].grade;
         cout<< endl;
