@@ -21,11 +21,13 @@ void animateArt(const vector<string>& art) {
 }
 
 int main() {
-    cout << "I know the morning wish was same as earlier I did on 10th dec :D" << endl;
+    cout << "Hi Mr. Ajit Singh this is your Son's friend Aishwarya Rai. I came to know you are big fan of mine :)" << endl;
     Sleep(5000);
-    cout << "But this one will be something different." << endl;
+    cout << "He asked me to do one thing for you." << endl;
     Sleep(5000);
-    cout<<"So here it is... A surprise... for my amazing friend in some coding style."<<endl;
+    cout << "(Don't worry Mrs. Gurjit Kaur, I am just a bot :))" << endl;
+    Sleep(5000);
+    cout<<"So here it is... A surprise... for a amazing father and a husband in some coding style."<<endl;
     Sleep(5000);
     cout<<"In 5...";
     Sleep(1000);
