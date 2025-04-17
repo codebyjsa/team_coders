@@ -1,3 +1,0 @@
-# Jasneet Kaur
-
-## Hi :)
