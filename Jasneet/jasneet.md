@@ -1,4 +1,1 @@
-# Jasneet Kaur
-python-typhoon
-<br>
-let's start the Journey of Wonders!
+We did our First Code!!
