@@ -1,4 +1,4 @@
 # Jasneet Kaur
 python-typhoon
 <br>
-let's start!
+let's start the Journey!
