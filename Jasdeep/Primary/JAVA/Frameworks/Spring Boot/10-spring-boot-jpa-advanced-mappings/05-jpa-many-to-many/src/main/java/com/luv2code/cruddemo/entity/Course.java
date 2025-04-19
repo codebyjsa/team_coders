@@ -85,13 +85,21 @@ public class Course {
         this.instructor = instructor;
     }
 
+    public List<Student> getStudents() {
+        return students;
+    }
+
+    public void setStudents(List<Student> students) {
+        this.students = students;
+    }
+
     // add a convenience method
-    public void addReview (Review theReview){
-        if (reviews == null){
-            reviews = new ArrayList<>();
+    public void addStudent (Student theStudent){
+        if (students == null){
+            students = new ArrayList<>();
         }
 
-        reviews.add(theReview);
+        students.add(theStudent);
     }
 
     @Override
@@ -101,4 +109,5 @@ public class Course {
                 ", title='" + title + '\'' +
                 '}';
     }
+
 }
