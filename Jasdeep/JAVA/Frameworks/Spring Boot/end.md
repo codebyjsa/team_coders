@@ -1,0 +1,1 @@
+# By this I announce my end of Spring Boot Course. I can't tell how happy I am and gonna start my first internship as Backend Dev. May God bless me. *Pat on my Back. Well done, JSA :)
