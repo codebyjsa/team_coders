@@ -1,0 +1,21 @@
+body{
+background-image: url(https://www.shutterstock.com/image-photo/nice-city-park-by-lake-600nw-2284848389.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+}
+
+
+h1{
+ background: linear-gradient(To right, rgb(76, 207, 222),rgb(249, 247, 255));
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+p{background: linear-gradient(to left, rgb(76, 207, 222),rgb(249, 247, 255));
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+
+}
