@@ -1,0 +1,9 @@
+======================================
+ ELECTRICITY BILL 
+======================================
+Customer Name : Jasdeep Singh
+Units Consumed : 20
+Amount to Pay : 100
+Amount to Pay : 0
+======================================
+ Thank you for your payment! 
