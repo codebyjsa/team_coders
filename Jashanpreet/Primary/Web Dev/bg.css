@@ -4,6 +4,7 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
 background-position: center;
+
 }
 
 
@@ -18,4 +19,28 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 
 
+}
+#box1{
+
+
+    border: 2px solid rgb(11, 70, 130);
+    border-radius: 23px;
+    width: 400px;
+    height: 120px;
+     background:linear-gradient(rgb(162, 196, 255),rgb(159, 207, 172));
+     padding: 8px;
+     
+}
+div{
+
+    color: rgb(5, 130, 62);
+}
+#box2{
+border-radius: 13px;
+    border: 2px solid rgb(11, 70, 130);
+    width: 400px;
+    height: 120px;
+    background:linear-gradient(rgb(162, 196, 255),rgb(159, 207, 172));
+     
+    padding: 8px;
 }
