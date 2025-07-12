@@ -44,3 +44,30 @@ border-radius: 13px;
      
     padding: 8px;
 }
+a:link{
+    color: black;
+}
+a:visited{
+    color:brown;
+    |}
+    a:hover{ 
+
+        color: rgb(20, 20, 68);
+    }
+    a:active{
+        color: aquamarine;
+    }
+    button{
+    background-color: rgb(228, 255, 255);
+    
+ }
+ button:hover{
+    color: rgb(85, 95, 95);
+ }
+ li:nth-child(odd){
+    background-color: rgb(179, 234, 215);
+
+ }
+ li:nth-child(even){
+    background-color: rgb(163, 181, 215);
+ }
