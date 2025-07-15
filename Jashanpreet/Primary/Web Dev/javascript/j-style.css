@@ -1,0 +1,13 @@
+body{
+    border: 10px solid black;
+   background-color: bisque; 
+   font-size: medium;
+   font-family: Arial, Helvetica, sans-serif;
+   color: black;
+   text-align: center;
+   max-resolution:10000px;
+   margin: center;
+   padding: 10px;
+   text-shadow: 0px 3px 2px rgb(113, 73, 73);
+
+}
