@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css animations</title>
+    <style>
+        *{
+            margin: 0px;
+        }
+.container{
+background-color: rgb(20, 44, 149);
+height: 80vh;
+width: 30vw;
+}
+.box{
+    height: 45px;
+    width: 34px;
+    /* background-color: aqua; */
+    /* animation-name: hello; */
+    /* animation-duration: 2s; */
+    animation: hello 5s ease-in 1s ;
+;
+}
+@keyframes hello{
+
+from{
+    background-color: rgb(67, 2, 102);
+
+
+}
+to{
+     background-color:bisque;
+     transform:  translateY(45%) translateX(45%);
+}
+}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+
+        </div>
+    </div>
+    
+</body>
+</html>
