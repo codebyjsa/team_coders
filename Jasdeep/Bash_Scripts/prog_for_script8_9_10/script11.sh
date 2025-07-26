@@ -1,0 +1,1 @@
+grep -i "h" file1.txt file2.txt | head -n 2

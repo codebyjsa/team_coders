@@ -20,7 +20,14 @@ width: 30vw;
     /* animation-name: hello; */
     /* animation-duration: 2s; */
     animation: hello 5s ease-in 1s ;
-;
+    animation-iteration-count: infinite;
+;   animation-direction: alternate   ;
+    /* animation-fill-mode: forwards; */
+    /* animation-delay: 2s; */
+    /* animation-timing-function: ease-in-out; */
+    background-color: rgb(67, 2, 102);
+    transform: translateY(0px) translateX(0px);
+    animation-delay: 2s ;
 }
 @keyframes hello{
 
@@ -31,7 +38,7 @@ from{
 }
 to{
      background-color:bisque;
-     transform:  translateY(45%) translateX(45%);
+     transform:  translateY(500%) translateX(500%);
 }
 }
     </style>
