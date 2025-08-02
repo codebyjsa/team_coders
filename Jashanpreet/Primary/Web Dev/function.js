@@ -8,3 +8,4 @@ console.log("hey " + name + " From where are you")
 
 }
 word("doggar")
+word("vena")
