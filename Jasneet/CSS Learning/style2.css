@@ -1,4 +1,12 @@
 #box1{
     border:5px solid;
-    width:200px
+    width:200px;
+    color: brown;
+    background-color: rgb(232, 232, 97);
+}
+#box2{
+    border: 6px;
+    width: 250px;
+    background-color: rgb(237, 237, 243);
+    color: rgb(21, 21, 59);
 }

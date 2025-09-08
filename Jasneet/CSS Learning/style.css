@@ -1,0 +1,14 @@
+p{
+    border-left: 1cm;
+    border-right: 1cm;
+    border-color: black;
+    border-style:inset;
+    border-radius: 10px;
+}
+
+h1{border-top-style:outset;
+    border-bottom-style: outset;
+    border-left-style: outset;
+    border-right-style: outset;
+    border-color: burlywood;
+}
