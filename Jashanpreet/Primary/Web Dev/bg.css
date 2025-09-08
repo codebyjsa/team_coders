@@ -1,0 +1,73 @@
+body{
+background-image: url(https://www.shutterstock.com/image-photo/nice-city-park-by-lake-600nw-2284848389.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+
+}
+
+
+h1{
+ background: linear-gradient(To right, rgb(76, 207, 222),rgb(249, 247, 255));
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+p{background: linear-gradient(to left, rgb(76, 207, 222),rgb(249, 247, 255));
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+
+}
+#box1{
+
+
+    border: 2px solid rgb(11, 70, 130);
+    border-radius: 23px;
+    width: 400px;
+    height: 120px;
+     background:linear-gradient(rgb(162, 196, 255),rgb(159, 207, 172));
+     padding: 8px;
+     
+}
+div{
+
+    color: rgb(5, 130, 62);
+}
+#box2{
+border-radius: 13px;
+    border: 2px solid rgb(11, 70, 130);
+    width: 400px;
+    height: 120px;
+    background:linear-gradient(rgb(162, 196, 255),rgb(159, 207, 172));
+     
+    padding: 8px;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color:brown;
+    |}
+    a:hover{ 
+
+        color: rgb(20, 20, 68);
+    }
+    a:active{
+        color: aquamarine;
+    }
+    button{
+    background-color: rgb(228, 255, 255);
+    
+ }
+ button:hover{
+    color: rgb(85, 95, 95);
+ }
+ li:nth-child(odd){
+    background-color: rgb(179, 234, 215);
+
+ }
+ li:nth-child(even){
+    background-color: rgb(163, 181, 215);
+ }

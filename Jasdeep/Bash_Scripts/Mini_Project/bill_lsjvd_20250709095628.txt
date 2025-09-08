@@ -1,0 +1,11 @@
+********** Hotel Bill **********
+Customer Name : lsjvd
+Date          : Wednesday 09 July 2025 09:56:22 AM IST
+------------------------------------------
+Item		Qty/Days	Price	Total
+------------------------------------------
+Room Rent 	Days: 2	2000 	4000  ------------------------------------------
+Subtotal      : Rs.4000
+GST (18%)    : Rs.720
+Total Payable : Rs.4720
+

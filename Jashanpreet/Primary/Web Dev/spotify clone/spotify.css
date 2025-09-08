@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+color: aliceblue;
+}
+.container{
+    height: 150px;
+    width: 150px;
+    border: 2px rgb(255, 255, 255);
+    background-color: rgb(36, 143, 90);
+}
+.container2{
+
+    margin: 10px;
+    height: 150px;
+    width: 150px;
+    border: 2px rgb(255, 255, 255);
+    margin: 100px;
+    background-color: rgb(36, 143, 90);
+}
