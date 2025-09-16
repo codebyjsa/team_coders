@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -17,7 +19,7 @@ public class Input {
 //            arr[i]= in.nextInt();
 //        }
 //
-//        System.out.println(Arrays.toString(arr));
+//        System.out.println(Arrays.Arrays.toString(arr));
 
 //        for (int j : arr) {
 //            System.out.println(j + " ");

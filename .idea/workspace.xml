@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3100d252-19d1-40da-bf72-fb2d66baee7f" name="Changes" comment="" />
+    <list default="true" id="3100d252-19d1-40da-bf72-fb2d66baee7f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/.idea/DSA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/1-arrays/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,18 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "codebyjsa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;codebyjsa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/codebyjsa/team_coders.git",
-    "accountId": "683d3e94-6874-4673-be81-3040552ac978"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/codebyjsa/team_coders.git&quot;,
+    &quot;accountId&quot;: &quot;683d3e94-6874-4673-be81-3040552ac978&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -33,8 +40,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/jsa/Desktop/team_coders"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
