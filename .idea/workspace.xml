@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3100d252-19d1-40da-bf72-fb2d66baee7f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/.idea/DSA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jasdeep/JAVA/DSA/1-arrays/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +39,13 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/jsa/Desktop/team_coders"
+    "last_opened_file_path": "/home/jsa/Desktop/team_coders",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
