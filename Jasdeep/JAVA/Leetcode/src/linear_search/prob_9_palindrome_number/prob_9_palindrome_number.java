@@ -1,4 +1,4 @@
-package prob_9_palindrome_number;
+package linear_search.prob_9_palindrome_number;
 
 class Solution {
     public boolean isPalindrome(int x) {

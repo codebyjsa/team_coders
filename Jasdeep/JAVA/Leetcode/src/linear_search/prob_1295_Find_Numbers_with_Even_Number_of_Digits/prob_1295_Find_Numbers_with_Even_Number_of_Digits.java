@@ -1,4 +1,4 @@
-package prob_1295_Find_Numbers_with_Even_Number_of_Digits;
+package linear_search.prob_1295_Find_Numbers_with_Even_Number_of_Digits;
 
 class Solution {
     public int findNumbers(int[] nums) {
