@@ -1,0 +1,12 @@
+Age,Salary,Gender,City
+25,30000,Male,Delhi
+30,45000,Female,Mumbai
+35,,Male,Delhi
+40,80000,Female,Bangalore
+28,32000,Male,Mumbai
+45,120000,Male,Delhi
+50,200000,Female,Bangalore
+29,,Female,Mumbai
+33,40000,Male,
+60,500000,Male,Delhi
+

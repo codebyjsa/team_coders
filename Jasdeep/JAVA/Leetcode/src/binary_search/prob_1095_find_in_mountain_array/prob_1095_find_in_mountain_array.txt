@@ -14,7 +14,7 @@ interface MountainArray {
     public int length() {}
 }
 
-class Solution {
+class sorting.cycle_sort.Solution {
     public int findInMountainArray(int target, MountainArray mountainArr) {
 
         int peak = peakIndexInMountainArray(mountainArr);

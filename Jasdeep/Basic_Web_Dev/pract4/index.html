@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Webpage — JS DOM, Control Structures &amp; Validation</title>
+    <meta name="description"
+        content="An interactive webpage demonstrating JavaScript DOM manipulation, control structures, and form validation.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- ====== HEADER ====== -->
+    <header id="main-header">
+        <h1>Interactive&nbsp;JS&nbsp;Playground</h1>
+        <p class="subtitle">DOM Manipulation &bull; Control Structures &bull; Form Validation</p>
+    </header>
+
+    <main>
+
+        <!-- ====== SECTION 1 — REGISTRATION FORM ====== -->
+        <section class="card" id="form-section">
+            <h2>📝 Registration Form</h2>
+            <p class="section-desc">Real-time validation using JavaScript control structures</p>
+
+            <form id="reg-form" novalidate>
+                <div class="form-group">
+                    <label for="fullname">Full Name</label>
+                    <input type="text" id="fullname" placeholder="John Doe" autocomplete="name">
+                    <span class="error-msg" id="fullname-error"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" placeholder="john@example.com" autocomplete="email">
+                    <span class="error-msg" id="email-error"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" placeholder="Min 8 chars, 1 number, 1 uppercase">
+                    <div class="password-strength" id="password-strength">
+                        <div class="strength-bar" id="strength-bar"></div>
+                    </div>
+                    <span class="error-msg" id="password-error"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="confirm-password">Confirm Password</label>
+                    <input type="password" id="confirm-password" placeholder="Re-enter your password">
+                    <span class="error-msg" id="confirm-password-error"></span>
+                </div>
+
+                <button type="submit" id="submit-btn" class="btn btn-primary">Register</button>
+                <div id="form-success" class="success-msg hidden">✅ Registration successful!</div>
+            </form>
+        </section>
+
+        <!-- ====== SECTION 2 — TO-DO LIST ====== -->
+        <section class="card" id="todo-section">
+            <h2>✅ To-Do List</h2>
+            <p class="section-desc">Add, complete &amp; delete items — DOM createElement / removeChild</p>
+
+            <div class="todo-input-row">
+                <input type="text" id="todo-input" placeholder="What needs to be done?">
+                <button id="add-todo-btn" class="btn btn-primary">Add</button>
+            </div>
+            <ul id="todo-list"></ul>
+            <p class="todo-summary" id="todo-summary"></p>
+        </section>
+
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Interactive JS Playground</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
