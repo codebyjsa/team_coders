@@ -14,6 +14,8 @@ int main(){
         cout<<v[i]<<" ";
     }cout<<endl;
 
+    v.pop_back();
+
     cout<<v.size()<<endl;
     cout<<v.capacity()<<endl;
     
